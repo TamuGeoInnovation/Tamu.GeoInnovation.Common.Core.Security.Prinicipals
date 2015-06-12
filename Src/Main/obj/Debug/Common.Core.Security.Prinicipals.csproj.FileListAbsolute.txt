@@ -1,0 +1,5 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security.Prinicipals\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Security.Prinicipals.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security.Prinicipals\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Security.Prinicipals.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security.Prinicipals\src\obj\Debug\USC.GISResearchLab.Common.Core.Security.Prinicipals.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security.Prinicipals\src\obj\Debug\USC.GISResearchLab.Common.Core.Security.Prinicipals.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Security.Prinicipals\src\obj\Debug\Common.Core.Security.Prinicipals.csprojResolveAssemblyReference.cache
