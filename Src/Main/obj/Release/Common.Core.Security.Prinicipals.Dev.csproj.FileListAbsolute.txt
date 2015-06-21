@@ -1,2 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Security.Prinicipals\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Security.Principals.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Security.Prinicipals\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Security.Principals.dll
