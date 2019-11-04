@@ -32,7 +32,7 @@ namespace USC.GISResearchLab.Common.Utils.Security.Principals
             return ret;
         }
 
-        
+
         public static bool IsInRole(GenericPrincipal principal, string role)
         {
             return IsInRole(principal, role, new string[] { role });
